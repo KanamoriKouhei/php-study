@@ -95,7 +95,14 @@
 //    print('書き込みに失敗しました。');
 //}
 
+//chapter 25 ファイルの読み込み
 
+//$news = file_get_contents('../../news_data/news.text');
+//$news = "2018-06-04 ニュースを追加しました。" ."\n" . $news ;
+//file_put_contents('../../news_data/news.text',$news);
+//print($news);
+
+//readfile('../../news_data/news.text')
 
 ?>
 </pre>

@@ -25,8 +25,19 @@
     print ($i . "\n");
     $i = $i+1 ;
 }*/
-print (date('n / j ( D )',time()+60*60*24));
 
+//print (date('n / j ( D )',time()+60*60*24) . "\n");
+//print (date('n / j ( D )',strtotime('+2day')) . "\n");
+//for($i=1;$i<=365;$i++){
+//    $date = strtotime('+' . $i . 'day');
+//    print (date('n / j ( D )', $date ));
+//    print ("\n");
+//}
+//for($i=1;$i<=365;$i++):
+//    $date = strtotime('+' . $i . 'day');
+//    print (date('n / j ( D )', $date ));
+//    print ("\n");
+//endfor;
 ?>
 </pre>
 </main>

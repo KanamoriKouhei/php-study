@@ -46,6 +46,20 @@
 ////print (date('w'));
 //print ($week_name[date('w')]);
 
+//chapter20
+//$fruits = [
+//    'apple'=>'りんご',
+//    'grape'=>'ぶどう',
+//    'lemon'=>'レモン',
+//    'tomato'=>'トマト',
+//    'peach'=>'もも'
+//];
+////print ($fruits['grape']);
+//foreach ($fruits as $english => $japanease){
+//    print($english . ':' . $japanease . "\n");
+//}
+
+//chapter 21
 ?>
 </pre>
 </main>

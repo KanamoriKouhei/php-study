@@ -71,7 +71,7 @@
       <workItem from="1598312928649" duration="46000" />
       <workItem from="1598312986235" duration="9097000" />
       <workItem from="1598339313646" duration="17823000" />
-      <workItem from="1598359122831" duration="4545000" />
+      <workItem from="1598359122831" duration="5205000" />
     </task>
     <task id="LOCAL-00001" summary="chapter 17">
       <created>1598359193676</created>
@@ -94,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598363518917</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="chapter 19">
+      <created>1598364737308</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598364737308</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,17 +122,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chapter 17" />
     <MESSAGE value="chapter 18" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 18" />
+    <MESSAGE value="chapter 19" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 19" />
   </component>
   <component name="WindowStateProjectService">
     <state x="702" y="363" key="#通知" timestamp="1598271479018">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="702" y="363" key="#通知/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598271479018" />
-    <state x="628" y="156" key="CommitChangelistDialog2" timestamp="1598363518161">
+    <state x="628" y="156" key="CommitChangelistDialog2" timestamp="1598364736598">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="628" y="156" key="CommitChangelistDialog2/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598363518161" />
+    <state x="628" y="156" key="CommitChangelistDialog2/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598364736598" />
     <state x="748" y="443" key="Github.CreateGistDialog" timestamp="1598271456692">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

@@ -59,7 +59,21 @@
 //    print($english . ':' . $japanease . "\n");
 //}
 
-//chapter 21
+//chapter 21 if文
+
+//print (date('G'));
+//
+//if (date('G') < 9 ){
+//    print('現在受け付け時間外です。');
+//}else{
+//    print ('ようこそ！');
+//}
+
+//$x = '';
+//if ($x) {
+//    print ('xには文字が入っています。');
+//}
+
 ?>
 </pre>
 </main>

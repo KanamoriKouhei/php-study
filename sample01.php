@@ -85,6 +85,18 @@
 //$date = sprintf('%04d年 %02d月 %02d日',2018,1,23);
 //print($date);
 
+//chapter 24 ファイルに書き込み
+
+//$success = file_put_contents('../../news_data/news.text','2018-06-01 ホームページをリニューアルしました。');
+//
+//if ($success) {
+//    print ('ファイルへの書き込みが完了しました。');
+//}else{
+//    print('書き込みに失敗しました。');
+//}
+
+
+
 ?>
 </pre>
 </main>

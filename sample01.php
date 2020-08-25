@@ -104,6 +104,16 @@
 
 //readfile('../../news_data/news.text')
 
+//chapter 26 xmlを読み込む
+
+/*$xmltree = simplexml_load_file('https://h2o-space.com/feed/');
+foreach ($xmltree->channel->item as $item):
+*/?><!--
+・<a href="<?php /*print($item->link); */?>" >"<?php /*print ($item->title); */?>"</a>
+--><?php
+/*endforeach;*/
+
+
 ?>
 </pre>
 </main>

@@ -20,12 +20,14 @@
 <pre>
 <!-- ここにプログラムを記述します -->
 <?php
+//chapter 17
 //$i = 1;
 /*while ($i <= 365){
     print ($i . "\n");
     $i = $i+1 ;
 }*/
 
+//chapter 18
 //print (date('n / j ( D )',time()+60*60*24) . "\n");
 //print (date('n / j ( D )',strtotime('+2day')) . "\n");
 //for($i=1;$i<=365;$i++){
@@ -39,6 +41,10 @@
 //    print ("\n");
 //endfor;
 
+//chapter 19
+//$week_name = ['日','月','火','水','木','金','土'];
+////print (date('w'));
+//print ($week_name[date('w')]);
 
 ?>
 </pre>

@@ -76,9 +76,14 @@
 
 //chapter 22 小数点
 
-print(floor(100/3000*100));//切り下げ
-print(ceil(100/3000*100));//切り上げ
-print(round(100/3000*100,3));//四捨五入
+//print(floor(100/3000*100));//切り下げ
+//print(ceil(100/3000*100));//切り上げ
+//print(round(100/3000*100,3));//四捨五入
+
+//chapter 23 sprintf
+
+//$date = sprintf('%04d年 %02d月 %02d日',2018,1,23);
+//print($date);
 
 ?>
 </pre>

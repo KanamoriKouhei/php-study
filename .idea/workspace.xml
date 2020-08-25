@@ -35,26 +35,20 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\XAMP\htdocs\php" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.sample01.php">
+  <component name="RunManager" selected="PHP スクリプト.sample01.php">
     <configuration name="sample01.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/sample01.php">
       <method v="2" />
     </configuration>
     <configuration name="submit.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/sample/submit.php">
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="PHP Script.sample01.php" />
-        <item itemvalue="PHP Script.submit.php" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -71,7 +65,11 @@
       <workItem from="1598312928649" duration="46000" />
       <workItem from="1598312986235" duration="9097000" />
       <workItem from="1598339313646" duration="17823000" />
-      <workItem from="1598359122831" duration="7565000" />
+      <workItem from="1598359122831" duration="7942000" />
+      <workItem from="1598368206633" duration="303000" />
+      <workItem from="1598368520787" duration="25000" />
+      <workItem from="1598368553066" duration="276000" />
+      <workItem from="1598368835959" duration="1150000" />
     </task>
     <task id="LOCAL-00001" summary="chapter 17">
       <created>1598359193676</created>
@@ -115,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598366742031</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="chapter 22">
+      <created>1598367894645</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1598367894646</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,17 +144,18 @@
     <MESSAGE value="chapter 19" />
     <MESSAGE value="chapter 20" />
     <MESSAGE value="chapter 21" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 21" />
+    <MESSAGE value="chapter 22" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 22" />
   </component>
   <component name="WindowStateProjectService">
     <state x="702" y="363" key="#通知" timestamp="1598271479018">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="702" y="363" key="#通知/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598271479018" />
-    <state x="628" y="156" key="CommitChangelistDialog2" timestamp="1598366741393">
+    <state x="628" y="156" key="CommitChangelistDialog2" timestamp="1598367893636">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="628" y="156" key="CommitChangelistDialog2/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598366741393" />
+    <state x="628" y="156" key="CommitChangelistDialog2/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598367893636" />
     <state x="748" y="443" key="Github.CreateGistDialog" timestamp="1598271456692">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -162,14 +168,14 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="988" y="248" key="RollbackChangesDialog/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598364642157" />
-    <state x="290" y="123" key="SettingsEditor" timestamp="1598318092837">
+    <state x="290" y="123" key="SettingsEditor" timestamp="1598368678567">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="290" y="123" key="SettingsEditor/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598318092837" />
-    <state x="640" y="319" key="Vcs.Push.Dialog.v2" timestamp="1598366747139">
+    <state x="290" y="123" key="SettingsEditor/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598368678567" />
+    <state x="640" y="319" key="Vcs.Push.Dialog.v2" timestamp="1598367957159">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="640" y="319" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598366747139" />
+    <state x="640" y="319" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598367957159" />
     <state x="856" y="501" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598363477417">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

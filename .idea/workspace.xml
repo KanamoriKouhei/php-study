@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f251db43-17b3-433a-8625-b038d00a0cd9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/sample/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sample/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample/submit.php" beforeDir="false" afterPath="$PROJECT_DIR$/sample/submit.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/sample" />
+  </component>
+  <component name="ProjectId" id="1gXngIam0rsIeLoxpIERDFdlVEf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\XAMP\htdocs\php" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHP Script.sample01.php">
+    <configuration name="sample01.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/sample01.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="submit.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/sample/submit.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.sample01.php" />
+        <item itemvalue="PHP Script.submit.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f251db43-17b3-433a-8625-b038d00a0cd9" name="Default Changelist" comment="" />
+      <created>1598269914752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598269914752</updated>
+      <workItem from="1598269915798" duration="853000" />
+      <workItem from="1598270783835" duration="1990000" />
+      <workItem from="1598308421729" duration="3461000" />
+      <workItem from="1598312874461" duration="45000" />
+      <workItem from="1598312928649" duration="46000" />
+      <workItem from="1598312986235" duration="9097000" />
+      <workItem from="1598339313646" duration="17820000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="702" y="363" key="#通知" timestamp="1598271479018">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="702" y="363" key="#通知/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598271479018" />
+    <state x="748" y="443" key="Github.CreateGistDialog" timestamp="1598271456692">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="748" y="443" key="Github.CreateGistDialog/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598271456692" />
+    <state x="787" y="463" key="NewPhpFileDialog" timestamp="1598308536428">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="787" y="463" key="NewPhpFileDialog/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598308536428" />
+    <state x="290" y="123" key="SettingsEditor" timestamp="1598318092837">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="290" y="123" key="SettingsEditor/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598318092837" />
+    <state x="640" y="319" key="Vcs.Push.Dialog.v2" timestamp="1598355866735">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="640" y="319" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598355866735" />
+    <state x="856" y="501" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598336654163">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="856" y="501" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598336654163" />
+  </component>
+</project>

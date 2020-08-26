@@ -18,7 +18,14 @@
 <main>
 <h2>Practice</h2>
 <pre>
-    <?php print(htmlspecialchars($_POST['gender'],ENT_QUOTES));?>
+<?php
+$xmlTree = simplexml_load_file('https://h2o-space.com/feed/');
+foreach ($xmlTree->channel->item as $item):
+?>
+・<a href="<?php print($item->link); ?>"><?php print($item->title); ?></a>
+<?php
+endforeach;
+?>
 </pre>
 </main>
 </body>    

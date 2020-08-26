@@ -10,9 +10,81 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f251db43-17b3-433a-8625-b038d00a0cd9" name="Default Changelist" comment="chapter 26">
+    <list default="true" id="f251db43-17b3-433a-8625-b038d00a0cd9" name="Default Changelist" comment="chapter 27">
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample01.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample03.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample04.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample05.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample06.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample07.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample08.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample09.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample10.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample11.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample12.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample13.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample14.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample15.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample16.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample17/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample17/submit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample18/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample18/submit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample19/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample19/submit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample20.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample21.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample22.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample23.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample24/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample24/page02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample25/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section02/sample25/page02.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section04/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section04/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section04/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section04/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section04/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section04/dbconnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section04/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section04/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section04/input.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section04/input_do.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section04/memo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section04/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section04/update_do.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section05/templates/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section05/templates/images/bg_content.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section05/templates/images/bg_head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section05/templates/images/bg_main.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section05/templates/images/bg_ttl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section05/templates/images/txt_copyright.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section05/templates/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section05/templates/join/check.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section05/templates/join/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section05/templates/join/thanks.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section05/templates/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section05/templates/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section05/templates/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/section05/templates/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/template_file/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/template_file/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/template_file/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/template_file/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/template_file/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP_samplefile/template_file/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/sample01.php" beforeDir="false" afterPath="$PROJECT_DIR$/sample01.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sample2/submit.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +93,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,11 +112,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\XAMP\htdocs\php" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\XAMP\htdocs\php" />
     </key>
@@ -69,7 +153,8 @@
       <workItem from="1598368206633" duration="303000" />
       <workItem from="1598368520787" duration="25000" />
       <workItem from="1598368553066" duration="276000" />
-      <workItem from="1598368835959" duration="7960000" />
+      <workItem from="1598368835959" duration="8037000" />
+      <workItem from="1598407726943" duration="2233000" />
     </task>
     <task id="LOCAL-00001" summary="chapter 17">
       <created>1598359193676</created>
@@ -148,7 +233,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598379472622</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="chapter 27">
+      <created>1598381598296</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1598381598296</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -177,17 +269,18 @@
     <MESSAGE value="chapter 24" />
     <MESSAGE value="chapter 25" />
     <MESSAGE value="chapter 26" />
-    <option name="LAST_COMMIT_MESSAGE" value="chapter 26" />
+    <MESSAGE value="chapter 27" />
+    <option name="LAST_COMMIT_MESSAGE" value="chapter 27" />
   </component>
   <component name="WindowStateProjectService">
     <state x="702" y="363" key="#通知" timestamp="1598271479018">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="702" y="363" key="#通知/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598271479018" />
-    <state x="739" y="159" key="CommitChangelistDialog2" timestamp="1598379472007">
+    <state x="739" y="159" key="CommitChangelistDialog2" timestamp="1598409606699">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="739" y="159" key="CommitChangelistDialog2/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598379472007" />
+    <state x="739" y="159" key="CommitChangelistDialog2/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598409606699" />
     <state x="748" y="443" key="Github.CreateGistDialog" timestamp="1598271456692">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -204,10 +297,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="290" y="123" key="SettingsEditor/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598368678567" />
-    <state x="640" y="319" key="Vcs.Push.Dialog.v2" timestamp="1598376408655">
+    <state x="640" y="319" key="Vcs.Push.Dialog.v2" timestamp="1598381601540">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="640" y="319" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598376408655" />
+    <state x="640" y="319" key="Vcs.Push.Dialog.v2/0.0.1920.1080/1920.312.1366.768/-1242.382.1242.698@0.0.1920.1080" timestamp="1598381601540" />
     <state x="856" y="501" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598363477417">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

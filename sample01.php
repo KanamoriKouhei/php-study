@@ -151,11 +151,34 @@ foreach ($json->items as $item):
     */?>
 
 <!--chapter 34 header -->
-    <?php
-    header('Location: https://h2o-space.com');
-    exit();
-    ?>
+<!--    --><?php
+//    header('Location: https://h2o-space.com');
+//    exit();
+//    ?>
 
+<!--chapter 35 剰余算-->
+<?php
+/*$week = array('金','土','日','月','火','水','木');
+//    print ($week[0]);
+for ($i=1;$i<31;$i++){
+    print ($week[$i%7]."\n");
+}*/
+?>
+
+<!--<table>
+    <?php
+/*    for ($i=1;$i<=10;$i++){
+        if ($i % 2) {
+            print (' <tr style="background-color: #cccccc"> ');
+        } else {
+            print ('<tr>');
+        }
+        print ('<td>' . $i . '行目</td>');
+        print ('</tr>');
+    }
+    */?>
+</table>
+-->
 
 </pre>
 </main>

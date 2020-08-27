@@ -137,7 +137,7 @@ foreach ($json->items as $item):
     }
     */?>
 
-<!--//chapter 32 正規表現-->
+<!--//chapter 33 正規表現-->
 
 <!--    --><?php
 /*    $zip = 'あうあうあー';
@@ -149,6 +149,13 @@ foreach ($json->items as $item):
         print ('※　郵便番号を　123-4567　の形式でご記入下さい。');
     }
     */?>
+
+<!--chapter 34 header -->
+    <?php
+    header('Location: https://h2o-space.com');
+    exit();
+    ?>
+
 
 </pre>
 </main>

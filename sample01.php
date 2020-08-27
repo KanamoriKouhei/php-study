@@ -1,3 +1,10 @@
+
+<!--chapter 36 cookie-->
+<?php
+$value = '変数に保存した値です';
+setcookie('save_message','Cookieに保存した値です',time()+60*60*24*14);
+?>
+
 <!doctype html>
 <html lang="ja">
 <head>
@@ -179,6 +186,8 @@ for ($i=1;$i<31;$i++){
     */?>
 </table>
 -->
+
+<a href="page02.php">Page2へ</a>
 
 </pre>
 </main>

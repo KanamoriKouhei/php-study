@@ -137,6 +137,19 @@ foreach ($json->items as $item):
     }
     */?>
 
+<!--//chapter 32 正規表現-->
+
+<!--    --><?php
+/*    $zip = 'あうあうあー';
+
+    $zip = mb_convert_kana($zip,'a','UTF-8');
+    if (preg_match("/\A\d{3}[-]\d{4}\z/",$zip)) {
+        print ('郵便番号:〒' . $zip);
+    } else {
+        print ('※　郵便番号を　123-4567　の形式でご記入下さい。');
+    }
+    */?>
+
 </pre>
 </main>
 </body>

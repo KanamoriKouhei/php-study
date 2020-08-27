@@ -1,8 +1,14 @@
 
 <!--chapter 36 cookie-->
 <?php
-$value = '変数に保存した値です';
+/*$value = '変数に保存した値です';
 setcookie('save_message','Cookieに保存した値です',time()+60*60*24*14);
+*/?>
+
+<!--chapter 37 session-->
+<?php
+session_start();
+$_SESSION['session_message'] = '値をセッションに保存しました';
 ?>
 
 <!doctype html>
@@ -187,8 +193,12 @@ for ($i=1;$i<31;$i++){
 </table>
 -->
 
-<a href="page02.php">Page2へ</a>
+<!--chapter 36-->
+<!--<a href="page02.php">Page2へ</a>-->
 
+<!--chapter 37-->
+    <p>セッションに値を保存しました。次のページに移動してみましょう</p>
+    <a href="page02.php">page02へ</a>
 </pre>
 </main>
 </body>

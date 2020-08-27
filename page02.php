@@ -1,3 +1,5 @@
+<?php session_start(); ?>
+
 <!doctype html>
 <html lang="ja">
 <head>
@@ -19,10 +21,14 @@
     <h2>Practice</h2>
     <pre>
 <!-- ここにプログラムを記述します -->
-        変数の値：<?php print ($value); ?>
-        cookieの値：<?php
-            print ($_COOKIE['save_message']);
-        ?>
+<!--chapter 36-->
+<!--        変数の値：--><?php //print ($value); ?>
+<!--        cookieの値：--><?php
+//            print ($_COOKIE['save_message']);
+//        ?>
+
+<!--chapter 37-->
+        <?php print ($_SESSION['session_message']); ?>
     </pre>
 </main>
 </body>
